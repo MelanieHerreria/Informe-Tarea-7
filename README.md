@@ -6,7 +6,7 @@
 ***
 **OBJETIVO GENERAL**
 ***
-Comprender los temas sobre análisis de ramas, lazos, nodos, magnetismo y electromagnetismo, mediante la lectura de los capítulos 9 y 10 del libro "Principios de circuitos eléctricos" de Floyd, para aplicarlos en la práctica y resolución de ejercicios.
+Comprender los temas sobre inductores y transformadores, mediante la lectura de los capítulos 13 y 14 del libro "Principios de circuitos eléctricos" de Floyd, para aplicarlos en la práctica y resolución de ejercicios.
 
 ***
 **OBJETIVOS ESPECIFICOS**
@@ -289,6 +289,28 @@ i=0.00035 mA
 i=1.22mA[e^(-85µs/9.2µS)]
 
 i=0.00012 mA
+
+***
+**VIDEO**
+***
+***
+**CONCLUSIONES**
+***
+- A partir de los resúmenes realizados mediante mapas conceptuales del capítulo 13, se puede decir que el inductor es un componente eléctrico pasivo que eta formado por un alambre enrollado alrededor de un núcleo, se analizó su construcción básica, sus propiedades, las propiedades cuando están en serie o paralelo y lago muy importante es como actúa en circuitos de corriente continua y corriente alterna. En el capítulo 14 se estudió los transformadores, los cuales son dispositivos eléctricos hecho de dos inductores de alambre acoplados entre sí, lavase para su operación es la inductancia mutua, en relación con estos el termino devanado o bobina se utiliza comúnmente para describir el primario y secundario. También se utilizan en todo tipo de aplicaciones como fuentes de potencia, distribución de potencia, acoplamiento y en caso de tener fallos su localización es difícil de saber, por lo que es mejor uno nuevo.
+
+- En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido de los capítulos 13 y 14 sobre inductores y transformadores, donde se vio que es importante en qué tipo de circuito es colocado el inductor y de qué manera, en serie o paralelo, ya que sus propiedades varían de acuerdo a lo mencionado anteriormente. Con el trasformador también sucede lo mismo, pero más centrado en la inductancia mutua y también en los transformadores no ideales
+
+- En el video se justifican 4 ejercicios que se realizaron en el informe, mediante una breve explicación del tema del que trata el ejercicio, para que se entienda sus conceptos básicos y como resolverlo aplicando las formula dadas. 
+
+***
+**BIBLIOGRAFIA**
+***
+Floyd, T. (2007). Principios de circuitos electricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+***
+**RUBRICA**
+***
+![image](https://user-images.githubusercontent.com/105259459/176684710-0b07887f-3c00-4d4b-9c48-e75c125161e2.png)
+***
 
 
 
