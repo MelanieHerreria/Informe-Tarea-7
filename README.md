@@ -290,6 +290,186 @@ i=1.22mA[e^(-85µs/9.2µS)]
 
 i=0.00012 mA
 
+26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
+
+![image](https://user-images.githubusercontent.com/105259459/185390398-47925fc8-3b81-49a2-a661-4647a0e4e0b5.png)
+ 
+Podemos decir que la polaridad de nuestra onda cuadrada mientras vaya creciendo el voltaje y el tiempo van a ser directamente proporcionales esto quiere decir que entre más crezca la polaridad disminuye. 
+
+ (b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?
+
+Deberiamos usar laley de ohm como el voltaje se mantiene en 10 V  y la resistencia tiene 8.2 K ohmios 
+
+Seria V=IXR 
+
+I= V/R
+
+I= 10V/ 8.2 K ohm
+
+I= 1.21 m A
+
+28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?
+
+![image](https://user-images.githubusercontent.com/105259459/185390472-b239bbfb-6f79-4aaf-b85c-40a8c5c95ec3.png)
+
+Para nosotros determinar la corriente debemos sacar nuestra RT 
+
+R1||R4 + R2||R3
+
+RT= 1/(1/4.7 K ohms +1/6.8 K ohm ) +1/(1/3.3 Kohm + 1/4.7) 
+
+RT= 4.71 k ohm 
+
+V = I/R
+
+I= VXR 
+
+I= 15 V X4.71 k ohm 
+
+I= 70 m A 
+
+ (b) ¿Cuál es la corriente después de que transcurren 5t?
+
+Tabla = 
+
+0.99(70 m A)  = 0.07 m A
+
+SECCIÓN 13–5 Inductores en circuitos de ca
+
+30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
+
+![image](https://user-images.githubusercontent.com/105259459/185390535-5353e58a-3b99-4cc6-bf59-9f3699ac67b4.png)
+ 
+Convertimos 5 khz = 5000 Hz
+
+Determinamos el total de inductor 
+
+A 
+
+10+5= 15 H 
+
+1/(1/1 +1/15) = 0.9375 H 
+
+XL = 2pifl = 2pi ( 5000 Hz)( 0.9375 H)= 29.45 k ohm 
+
+B
+
+100+50= 150 m H 
+
+1/(1/50 +1/150) = 37.5m H 
+
+XL = 2pifl = 2pi ( 5000 Hz)( 37.5m H)= 1.178 k ohm 
+
+C
+
+100+200+400= 700 µ H
+
+XL = 2pifl = 2pi ( 5000 Hz)( 700 µ H)= 21.99 ohm 
+
+32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+ 
+ ![image](https://user-images.githubusercontent.com/105259459/185390602-5c204b48-d7bc-45c4-8f4d-62bb4a2480de.png)
+
+Convertimos 2.5 k Hz en HZ = 2500 Hz 
+
+L2 ||L3 +L1 = 20 + 40 = 60µH 
+
+1/(1/50 +1/ 60) = 27 H  X 10^(-6) H
+
+X L = 2pi fL = 2 pi (27 H  X 10^(-6) H) (2500 Hz) = 424 m Ohm
+
+I rms = V rms / X L = 10/424 m Ohm= 23.5 k A
+
+34. En la figura 13-51, determine la potencia reactiva.
+ 
+ ![image](https://user-images.githubusercontent.com/105259459/185390679-c7476946-0791-41f2-8693-b91f68d9b4b5.png)
+
+Como ya tenemos la corriente entonces
+
+Pr = I^2 XL = (23.5 k A)^2 (424 m Ohm) = 9964 VAR
+
+***
+CAPITULO 14
+***
+
+SECCIÓN 14–1 Inductancia mutua
+
+2. Determine el coeficiente de acoplamiento cuando LM =1 µH, L1 =8 µH, y L2 =2 µH.
+
+LM =1 µH
+
+L1 =8 µH, y L2 =2 µH.
+
+Despejamos nuestra ecuación
+
+LM = k(L1L2)^(1/2)  
+
+K= LM/(L1L2)^(1/2)  
+
+K= 1 µH/(8 µH x 2 µH.)^(1/2)  
+
+K= 0.25
+
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+V sec = n VPrim
+
+V sec= 250 Vueltas *2 como es el doble
+
+Vsec = 500 vueltas
+
+SECCIÓN 14–3 Transformadores elevadores y reductores
+
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+720 V /240 V= 3
+
+3 ES LA RELACION DE VUELTAS
+
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+ n. Vprim = v
+
+10 V  prim = 60
+
+V prim = 6
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+nVpri = (0.2)1200V  = 240 V 
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+ ![image](https://user-images.githubusercontent.com/105259459/185391625-19dde943-06c9-49f2-8400-fd6c09003aa5.png)
+
+A
+
+n = (RL /Rpri)^1/2
+
+n= (100)^1/2
+
+n=10 
+
+120(10) = 1.2 k V 
+
+B
+
+n = (RL /Rpri)^1/2
+
+n = (50)^1/2
+
+n= 7.07
+
+12(7.07)= 84.85 V 
+
+C 
+
+n = (RL /Rpri)^1/2
+
+n = 100
+
+100(16)= 1.5k V 
+
 ***
 **VIDEO**
 ***
