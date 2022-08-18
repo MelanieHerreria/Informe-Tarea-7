@@ -293,6 +293,7 @@ i=0.00012 mA
 ***
 **VIDEO**
 ***
+https://youtu.be/v_LY6pzExqI
 ***
 **CONCLUSIONES**
 ***
